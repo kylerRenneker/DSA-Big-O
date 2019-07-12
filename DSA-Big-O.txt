@@ -40,3 +40,6 @@
     9. Constant. It is just returning one item given whatever size input.
     
     10. Checks to see if its a prime number. Worst case scenario is linear. Best case scenario is constant. 
+    
+    
+    12. https://repl.it/@natsun121/Big-O-Exercises
