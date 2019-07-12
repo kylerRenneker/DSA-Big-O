@@ -32,3 +32,11 @@
 
     6. Polynomial or O(n^k) because the time complexity will increase n^2 due to the use
     of nested for loops 
+    
+    7. It returns the fibonacci sequence up to that number. Linear time complexity. As the num gets bigger, the         steps it takes increases in linear proportion. 
+    
+    8. Logarithmic time complexity, because as the data size increses the steps it takes to compute doesn't grow as     fast as the data size does.
+    
+    9. Constant. It is just returning one item given whatever size input.
+    
+    10. Checks to see if its a prime number. Worst case scenario is linear. Best case scenario is constant. 
